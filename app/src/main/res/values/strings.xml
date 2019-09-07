@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">movies</string>
+    <string name="most_popular">most popular</string>
+    <string name="highest_rated">highest rated</string>
+    <string name="current_choice">current_choice</string>
+    <string name="related_videos">Related videos:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="favorits">Favorits</string>
+    <string name="add_to_favorit">Add to Favorit</string>
+    <string name="remove_favorit">Remove Favorit</string>
+</resources>
